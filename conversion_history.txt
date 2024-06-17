@@ -1,2 +1,3 @@
 Historial de Conversiones:
-1. Conversión: 10.00 USD --> 77.71 GTQ | Fecha y hora: 2024-06-16T12:17:32.810311100
+1. Conversión: 10.00 USD --> 77.86 GTQ | Fecha y hora: 2024-06-16T18:48:39.990900300
+2. Conversión: 80.00 GTQ --> 10.27 USD | Fecha y hora: 2024-06-16T18:48:46.340346400

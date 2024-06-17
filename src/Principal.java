@@ -29,8 +29,8 @@ public class Principal {
         String menu = ANSI_BLUE+ """
                 \n**********   MENU PRINCIPAL   **********
                 
-                \t1) Dólar --->> Peso Argentino
-                \t2) Peso Argentino --->> Dólar
+                \t1) Dólar --->> Quetzal Guatemalteco
+                \t2) Quetzal Guatemalteco --->> Dólar
                 \t3) Dólar --->> Real brasileño
                 \t4) Real brasileño ---> Dólar
                 \t5) Dólar --->> Peso Colombiano
@@ -100,7 +100,7 @@ public class Principal {
                     target = "GTQ";
                     break;
                 case 2:
-                    base = "ARS";
+                    base = "GTQ";
                     target = "USD";
                     break;
                 case 3:
